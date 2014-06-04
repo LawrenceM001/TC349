@@ -1,0 +1,46 @@
+html{
+	background:#1E2E60;
+}
+.wrap	{
+	margin:5%;
+}
+
+#mainhead{
+	color:#6076BF;
+}
+header{
+	text-align: center;
+	border: 1px solid #000;
+	margin:none;
+	background: #041653;
+}
+
+h1{
+	margin-left: 5px;
+	color:#3D5BBF;
+	
+}
+
+h2{
+	margin: 0px;
+	border: 0px;
+	padding: 0px;
+	color:#041653;
+}
+
+h3{
+	margin-top:0px;
+	padding-top:0px;
+	color:#041653;
+}
+article	{
+	width: 273px;
+	height: 223px;
+	float:left;
+	padding: 10px;
+	margin: 10px;
+	background: #6076BF;
+	border: 1px solid #000;
+	text-align: center;
+}
+
